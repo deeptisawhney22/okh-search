@@ -1,0 +1,73 @@
+title: Origami Face Shield
+description: Reel-to-reel Laser cutting machine
+intended-use: >+
+  A higher output option is the use of die-cutting laser machines, which are
+  commonly used in the labeling industry to separate adhesive labels from their
+  backing sheets. These machines operate in a reel-to-reel fashion, typically
+  operating on 13” wide roll film feedstock. The lasing area is typically
+  limited to 12”x12” on this equipment, so a 2-3 pull sequential technique must
+  be used, requiring advanced setup. With this type of system, on-the-fly
+  processing of continuously moving flexible substrates is enabled through the
+  use and integration of a reel-to-reel machine, a laser source, and software
+  that supports necessary design file types.
+
+
+  Due to the specialized nature of these machines, layouts and methods will differ, and will need to be optimized by the machine operator. One advantageous capability of the machines is the ability to “kiss cut” the ventilation holes, so that they may be left sealed to increase droplet resistance, or pressed open to allow for longer term comfort and reduced fogging. With these machines, the headbands will need to be processed separately from the main shields in a 2-batch procedure. Roll-takeup optimization of the design can be accomplished either by including a backing sheet, or including tabs that link parts together and are severed as part of a later finishing step. 
+
+keywords:
+  - Reel-to-reel
+  - laser
+  - die-cutting
+  - rotary die-cutting
+project-link: https://www.maskproject.tech/face-shield-design
+image: https://www.maskproject.tech/face-shield-design
+made: true
+made-independently: false
+license:
+  hardware: 0BSD
+  documentation: 0BSD
+  software: 0BSD
+licensor:
+  name: TBD
+  affiliation: TBD
+  email: TBD
+okh-manifest-version: 1.0.0
+date-created: 2020-08-21
+date-updated: 2020-08-21
+manifest-author:
+  name: Deepti Sawhney
+  affiliation: Helpful Engineering
+  email: deeptisawhney22@gmail.com
+manifest-language: en-US
+contact:
+  name: James Butler
+  affiliation: Helpful Engineering
+  email: jbutler@helpfulengineering.org
+contributors:
+  - name: Helpful Engineering
+    affiliation: Helpful Engineering
+    email: jbutler@helpfulengineering.org
+version: "1"
+development-stage: product
+documentation-home: https://www.maskproject.tech/face-shield-design
+archive-download: https://www.maskproject.tech/face-shield-design
+design-files:
+  - path: https://www.maskproject.tech/face-shield-design
+    title: Origami Face Shield Design Files
+documentation-language: en-US
+schematics:
+  - path: tbd
+    title: tbd
+bom: " Clear PET film Thickness: 5-10 mil Roll stock, width: 13”-48”"
+tool-list: tbd
+making-instructions:
+  - path: https://www.maskproject.tech/face-shield-design
+    title: Origami Face Shield Design Files
+tool-settings:
+  - null
+derivative-of:
+  title: tbd
+variant-of:
+  title: tbd
+sub-parts:
+  - title: tbd
